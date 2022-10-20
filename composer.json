@@ -1,0 +1,15 @@
+{
+    "name": "dilios/diliosresizeimages",
+    "autoload": {
+        "psr-4": {
+            "Dilios\\Diliosresizeimages\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vexi",
+            "email": "kvdouglace@gmail.com"
+        }
+    ],
+    "require": {}
+}
